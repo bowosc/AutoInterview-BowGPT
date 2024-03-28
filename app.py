@@ -7,10 +7,12 @@ sock = Sock(app)
 app.secret_key = "ilovemysecretkey"
 
 
-#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
-openai.api_key = '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'
+
+openai.api_key = 'NICE TRY'
+
+# basically my whole resume, as of 3/28/2024
 messages = [ {"role": "system", "content":  #data to feed bowGPT, a list of dictionaries 
-              """
+              """ 
               Your name is BowGPT.
               Respond to the following questions only by talking about Bowie. 
               If a non-bowie subject is brought up, try and move the conversation back to Bowie. 
