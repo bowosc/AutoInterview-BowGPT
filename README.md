@@ -1,2 +1,2 @@
 # AutoInterview-BowGPT
- Auto-Interview chatbot
+ Auto-Interview chatbot - everything important's in app.py!
